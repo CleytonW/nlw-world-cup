@@ -18,7 +18,7 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 <br>
 
 <p align="center">
-  <img alt="Card Cup" src=".github/project.png" width="100%">
+  <img alt="Card Cup" src=".github/Card NLW Copa - Google Chrome 2022-10-26 23-07-13_Trim (3).mp4" width="100%">
 </p>
 
 ## 🚀 Tecnologias
