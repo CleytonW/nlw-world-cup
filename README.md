@@ -18,7 +18,7 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 <br>
 
 <p align="center">
-  <img alt="Card Cup" src=".github/project.png" width="100%">
+  <img alt="Card Cup" src=".github/Design sem nome.gif" width="100%">
 </p>
 
 ## 🚀 Tecnologias
